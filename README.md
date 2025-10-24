@@ -179,7 +179,7 @@ Por favor, mantenha um comportamento respeitoso e profissional em todas as inter
 ### Canais de Contato
 
 📧 **Suporte**: [Suporte](https://t.me/miraibuscassuporte)  
-💬 **Telegram**: [Bot](https://miraidb.org](https://t.me/@MiraiBuscasBot?start=ref6370311807)  
+💬 **Telegram**: [Bot](https://t.me/@MiraiBuscasBot?start=ref6370311807)  
 🌐 **Website**: [www.miraidb.org](https://miraidb.org)  
 
 ## 🎯 Termos de Serviço
