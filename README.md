@@ -174,29 +174,13 @@ Contribuições são bem-vindas! Por favor, siga os passos abaixo:
 Por favor, mantenha um comportamento respeitoso e profissional em todas as interações.
 
 ---
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
 ## 💬 Suporte
 
 ### Canais de Contato
 
-📧 **Email**: suporte@miraibuscas.com  
-💬 **Telegram**: [@mirai_buscas]([https://t.me/mirai_buscas](https://t.me/MiraiBuscasBot))  
-🌐 **Website**: [www.miraibuscas.com](https://miraidb.org)  
-
-### Documentação Completa
-
-- [Guia de Instalação](docs/INSTALLATION.md)
-- [Guia do Usuário](docs/USER_GUIDE.md)
-- [Referência de API](docs/API_REFERENCE.md)
-- [FAQ](docs/FAQ.md)
-
----
+📧 **Suporte**: [Suporte](https://t.me/miraibuscassuporte)  
+💬 **Telegram**: [Bot](https://miraidb.org](https://t.me/@MiraiBuscasBot?start=ref6370311807)  
+🌐 **Website**: [www.miraidb.org](https://miraidb.org)  
 
 ## 🎯 Termos de Serviço
 
